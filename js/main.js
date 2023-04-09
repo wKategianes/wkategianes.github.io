@@ -1,12 +1,3 @@
-/*!
- * Item: CodeX
- * Description:  Personal Portfolio / Resume / CV / vCard Template
- * Author/Developer: Exill
- * Author/Developer URL: https://themeforest.net/user/exill
- * Version: v1.0.0
- * License: Themeforest Standard Licenses: https://themeforest.net/licenses
- */
-
 /*----------- Table of Contents -----------*/
 
 /**
@@ -18,6 +9,11 @@
  * Contact
  * Preloader
  */
+
+ console.log(
+  '%c Thank you for checking out my portfolio! - William Kategianes Jr', 
+  'font-weight: bold; font-size: 25px;color: red;'
+  );
 
 (function($) {
   'use strict';
