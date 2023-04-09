@@ -11,9 +11,19 @@
  */
 
  console.log(
-  '%c Thank you for checking out my portfolio! - William Kategianes Jr', 
-  'font-weight: bold; font-size: 25px;color: red;'
+  '%c Thank you for checking out my portfolio!', 
+  'font-weight: bold; font-size: 25px;color: lightblue;'
   );
+
+console.log(
+  '%c Feel free to contact me at wkategianes@gmail.com!', 
+  'font-weight: bold; font-size: 25px;color: lightred;'
+);
+
+console.log(
+  '%c I look forward to hearing from you! - William Kategianes Jr', 
+  'font-weight: bold; font-size: 25px;color: lightgreen;'
+);
 
 (function($) {
   'use strict';
